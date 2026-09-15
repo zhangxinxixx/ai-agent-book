@@ -12,10 +12,11 @@
 ## 运行入口
 
 ```powershell
-cd code/chapter1/context
+cd code
 python -m pip install -r requirements.txt
 python main.py --help
 python -m pytest -q
 ```
 
 真实模型实验需要自行设置对应 provider 的环境变量。不要把 API Key、`.env`、授权头或含密钥的日志提交到 GitHub。
+
