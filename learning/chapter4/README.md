@@ -2,6 +2,8 @@
 
 本章学习 Agent 为什么需要 Tools，以及 Function Calling / Tool Calling 和 MCP 各自解决什么问题。学习材料来自本地最新的实验 4-2 与 4-4 代码快照。
 
+章节正文：[工具调用、MCP与安全](工具调用、MCP与安全.md)
+
 ## 学习目标
 
 - 理解 LLM 负责判断，Tool 负责产生真实动作。
